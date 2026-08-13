@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+pillow
+numpy
+ultralytics
+sentence-transformers
+faiss-cpu
+pandas
