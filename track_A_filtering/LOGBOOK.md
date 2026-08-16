@@ -3,7 +3,6 @@
 Append-only. One entry per non-trivial decision.
 
 ---
-
 ## Destination set: Jaipur, single-city catalogue
 
 **Decision:** `destinations.json` holds 21 real Jaipur destinations across 7
