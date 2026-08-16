@@ -1,0 +1,170 @@
+[
+  {
+    "destination_id": "dest_001",
+    "name": "Amber Fort",
+    "category": "Heritage",
+    "lat": 26.9855,
+    "lng": 75.8513,
+    "description": "A hilltop fort-palace built from pale yellow and pink sandstone, overlooking Maota Lake on the outskirts of Jaipur. Its courtyards, the mirrored Sheesh Mahal, and elephant-ride approach make it one of Rajasthan's most visited Rajput monuments."
+  },
+  {
+    "destination_id": "dest_002",
+    "name": "City Palace",
+    "category": "Heritage",
+    "lat": 26.9258,
+    "lng": 75.8237,
+    "description": "The former royal residence of the Jaipur Maharajas, sitting at the heart of the old walled city. It combines Rajput and Mughal architecture across a series of courtyards, gardens, and museums, and part of it remains home to the royal family today."
+  },
+  {
+    "destination_id": "dest_003",
+    "name": "Hawa Mahal",
+    "category": "Monument",
+    "lat": 26.9239,
+    "lng": 75.8267,
+    "description": "A five-storey honeycomb facade of pink sandstone with 953 small windows, built so royal women could watch street life below without being seen. It is one of Jaipur's most photographed landmarks, especially at sunrise when the facade turns rose-gold."
+  },
+  {
+    "destination_id": "dest_004",
+    "name": "Jantar Mantar",
+    "category": "Monument",
+    "lat": 26.9246,
+    "lng": 75.8247,
+    "description": "An 18th-century astronomical observatory built by Maharaja Jai Singh II, containing nineteen large stone and masonry instruments for tracking celestial positions and time. It is a UNESCO World Heritage Site located right next to the City Palace."
+  },
+  {
+    "destination_id": "dest_005",
+    "name": "Nahargarh Fort",
+    "category": "Heritage",
+    "lat": 26.9373,
+    "lng": 75.8154,
+    "description": "A fort perched on the Aravalli hills overlooking Jaipur city, originally built as a defensive retreat and later expanded with royal apartments. It is known for its sweeping sunset views over the pink city and a stepwell used in film shoots."
+  },
+  {
+    "destination_id": "dest_006",
+    "name": "Jaigarh Fort",
+    "category": "Heritage",
+    "lat": 26.9853,
+    "lng": 75.8483,
+    "description": "A rugged hilltop fort adjoining Amber Fort, built primarily to protect the royal treasury and armory. It houses Jaivana, one of the largest cannons on wheels in the world, and offers panoramic views of the surrounding hills."
+  },
+  {
+    "destination_id": "dest_007",
+    "name": "Albert Hall Museum",
+    "category": "Cultural",
+    "lat": 26.9114,
+    "lng": 75.8195,
+    "description": "Rajasthan's oldest museum, housed in an Indo-Saracenic building in Ram Niwas Garden. Its collections span miniature paintings, metal sculptures, carpets, and an Egyptian mummy, and the building is illuminated at night."
+  },
+  {
+    "destination_id": "dest_008",
+    "name": "Jal Mahal",
+    "category": "Monument",
+    "lat": 26.9535,
+    "lng": 75.8467,
+    "description": "A sandstone palace that appears to float in the middle of Man Sagar Lake, with four of its five storeys submerged when the lake is full. Visitors view it from the lakeshore, since the interior is closed to the public."
+  },
+  {
+    "destination_id": "dest_009",
+    "name": "Birla Mandir (Laxmi Narayan Temple)",
+    "category": "Temple",
+    "lat": 26.8951,
+    "lng": 75.8144,
+    "description": "A modern temple built entirely in white marble, dedicated to Lord Vishnu and Goddess Lakshmi, set on a raised platform on Moti Dungri hill. Its stained-glass windows and carved marble facades depict scenes from Hindu scriptures and other faiths."
+  },
+  {
+    "destination_id": "dest_010",
+    "name": "Govind Dev Ji Temple",
+    "category": "Temple",
+    "lat": 26.9257,
+    "lng": 75.8228,
+    "description": "One of the most revered Krishna temples in India, located within the City Palace complex gardens. Maharaja Sawai Jai Singh II is said to have built the palace so that his private chambers directly faced the deity."
+  },
+  {
+    "destination_id": "dest_011",
+    "name": "Galtaji Temple",
+    "category": "Temple",
+    "lat": 26.9147,
+    "lng": 75.8586,
+    "description": "A pilgrimage site built around a natural spring in a narrow gorge in the Aravalli hills, comprising temples, pavilions, and holy water tanks. It is popularly called the Monkey Temple for the large troops of rhesus macaques living around the tanks."
+  },
+  {
+    "destination_id": "dest_012",
+    "name": "Johari Bazaar",
+    "category": "Urban",
+    "lat": 26.9196,
+    "lng": 75.8258,
+    "description": "Jaipur's historic jewellery market inside the walled Pink City, famous for gemstones, kundan and meenakari jewellery, and traditional Rajasthani lehengas. The street is lined with old shopfronts under the same pink facades as the rest of the old city."
+  },
+  {
+    "destination_id": "dest_013",
+    "name": "Bapu Bazaar",
+    "category": "Urban",
+    "lat": 26.9166,
+    "lng": 75.8231,
+    "description": "A bustling market street known for textiles, juttis (traditional footwear), block-printed fabrics, and perfumes. It runs close to the old city wall and is a popular stop for handicraft and souvenir shopping."
+  },
+  {
+    "destination_id": "dest_014",
+    "name": "Chandpole Bazaar",
+    "category": "Urban",
+    "lat": 26.9245,
+    "lng": 75.8203,
+    "description": "A market near the Chandpole gate of the old walled city, known for idol makers, marble carvers, and stone artisans working in open-fronted workshops. It gives visitors a working look at crafts that supply temples across India."
+  },
+  {
+    "destination_id": "dest_015",
+    "name": "Sisodia Rani Garden",
+    "category": "Nature",
+    "lat": 26.8898,
+    "lng": 75.8595,
+    "description": "A terraced Mughal-style garden built for a Jaipur queen, laid out with fountains, murals depicting the Radha-Krishna legend, and multi-level lawns. It sits a few kilometres outside the city on the Agra road and is a quieter counterpoint to the fort circuit."
+  },
+  {
+    "destination_id": "dest_016",
+    "name": "Central Park",
+    "category": "Nature",
+    "lat": 26.9040,
+    "lng": 75.8089,
+    "description": "One of the largest green spaces in Jaipur, with a musical fountain, jogging track, and a tall national flag that is a city landmark in itself. It sits near Statue Circle and is popular with residents for morning walks and evening picnics."
+  },
+  {
+    "destination_id": "dest_017",
+    "name": "Jawahar Circle Garden",
+    "category": "Nature",
+    "lat": 26.8404,
+    "lng": 75.8003,
+    "description": "A large circular garden in Malviya Nagar built around a roundabout, said to be one of the biggest circular parks in Asia. It has walking paths, an open-air theatre, and food stalls that draw crowds in the evenings."
+  },
+  {
+    "destination_id": "dest_018",
+    "name": "Nahargarh Biological Park",
+    "category": "Wildlife",
+    "lat": 27.0160,
+    "lng": 75.8624,
+    "description": "A wildlife park on the Jaipur-Delhi highway that shelters rescued and rehabilitated animals including tigers, leopards, and bears in large enclosures modeled on their natural habitat. It also runs a rescue and breeding programme for the state forest department."
+  },
+  {
+    "destination_id": "dest_019",
+    "name": "Panna Meena ka Kund",
+    "category": "Heritage",
+    "lat": 26.9912,
+    "lng": 75.8512,
+    "description": "A symmetrical stepwell near Amber Fort with crisscrossing staircases descending to a water tank, built for water storage and as a cool resting place. Its geometric stairways make it a favourite spot for photographers visiting the Amer area."
+  },
+  {
+    "destination_id": "dest_020",
+    "name": "World Trade Park",
+    "category": "Urban",
+    "lat": 26.8534,
+    "lng": 75.8051,
+    "description": "A large modern shopping and retail complex on Malviya Nagar's main road, home to international and domestic brand stores, a food court, and a multiplex. It represents the newer, commercial side of Jaipur alongside its historic core."
+  },
+  {
+    "destination_id": "dest_021",
+    "name": "Chokhi Dhani",
+    "category": "Cultural",
+    "lat": 26.7735,
+    "lng": 75.8206,
+    "description": "An ethnic village-themed resort on Tonk Road recreating rural Rajasthani life, with folk dance and puppet shows, camel rides, traditional thali dinners, and craft stalls. It is a popular evening destination for visitors wanting a cultural experience outside the main city."
+  }
+]
