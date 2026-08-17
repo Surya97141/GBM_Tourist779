@@ -1,0 +1,20 @@
+{
+  "trained": "2025-05-14T16:22:19.499990",
+  "ultralytics_version": "8.3.105",
+  "epochs": 100,
+  "batch_size": 16,
+  "image_size": 640,
+  "final_metrics": {
+    "metrics/precision(B)": 0.80641,
+    "metrics/recall(B)": 0.63827,
+    "metrics/mAP50(B)": 0.74039,
+    "metrics/mAP50-95(B)": 0.46327,
+    "val/box_loss": 1.21996,
+    "val/cls_loss": 0.76039,
+    "val/dfl_loss": 1.21167,
+    "fitness": 0.49098
+  },
+  "class_names": {
+    "0": "person"
+  }
+}

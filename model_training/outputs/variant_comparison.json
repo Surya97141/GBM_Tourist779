@@ -1,0 +1,23 @@
+[
+  {
+    "weights": "yolov8n.pt",
+    "params": 3157200,
+    "gflops": 8.86,
+    "avg_inference_ms": 982.2,
+    "min_inference_ms": 503.8
+  },
+  {
+    "weights": "yolov8s.pt",
+    "params": 11166560,
+    "gflops": 28.81,
+    "avg_inference_ms": 1446.1,
+    "min_inference_ms": 1313.6
+  },
+  {
+    "weights": "yolov8m.pt",
+    "params": 25902640,
+    "gflops": 79.31,
+    "avg_inference_ms": 3464.7,
+    "min_inference_ms": 2902.1
+  }
+]

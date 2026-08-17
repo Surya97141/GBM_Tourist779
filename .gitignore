@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+
+README.md
+LOGBOOK.md
+
+model_training/.train_run/
+model_training/.model_cache/
+model_training/.train_test/
